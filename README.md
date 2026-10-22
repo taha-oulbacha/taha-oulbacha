@@ -3,7 +3,7 @@
 
 Junior Developer
 
-First year IT student focused on discipline, self-learning and building real-world projects.  
+Second year IT student focused on discipline, self-learning and building real-world projects.  
 Currently learning web development and programming fundamentals while working toward freelancing and AI expertise.
 
 🌍 Based in France  
