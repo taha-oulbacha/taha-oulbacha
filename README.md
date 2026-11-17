@@ -1,22 +1,23 @@
 # Taha Oulbacha
 
-Second-year IT student based in Lyon, France, seeking a **software development internship starting in April 2027**.
+Second-year IT student based in Lyon, France, building a new portfolio for a software development internship starting in April 2027.
 
-## Featured projects
+## Current direction
 
-| Project | What the repository contains | Stack |
-| --- | --- | --- |
-| [Portfolio & client management](https://github.com/taha-oulbacha/new-portfolio) | Personal website with a lead-intake API and an admin dashboard for clients, projects, and payments. | JavaScript, Node.js, Express, MySQL |
-| [Apply — application tracker](https://github.com/taha-oulbacha/mesi-4) | University team project: a frontend prototype for searching sample opportunities and tracking applications. | React, JavaScript, CSS |
-| [Emir — coaching website](https://github.com/taha-oulbacha/Emir) | Coaching landing page with service plans, a transformation gallery, WhatsApp links, and an EmailJS contact form. | HTML, CSS, JavaScript |
+- **Backend:** PHP and Python
+- **Frontend:** Vue.js, JavaScript, HTML, CSS
+- **Data:** SQL and relational database fundamentals
+- **Tools:** Git, GitHub, REST APIs, testing, and documentation
 
-## Technologies used in these projects
+I am rebuilding my public portfolio around small, complete projects that I can explain line by line.
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MySQL
-- **Version control:** Git and GitHub
+## Live work
+
+Some projects are available only as live demonstrations. Source code is kept private.
+
+- [Portfolio](https://taha-oulbacha.com)
+- [LinkedIn](https://www.linkedin.com/in/taha-oulbacha-043570346)
 
 ## Contact
 
-[Portfolio](https://taha-oulbacha.com) · [Email](mailto:taha.oulbacha1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taha-oulbacha-043570346)
+[Email](mailto:taha.oulbacha1@gmail.com)
